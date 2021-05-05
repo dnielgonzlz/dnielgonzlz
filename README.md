@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @dnielgonzlz
+- 👀 I’m interested in fitness, coffeee, data science, machine learning and business
+- 🌱 I’m currently learning the basics of python, data science, and machine learning
+- 💞️ I’m looking to collaborate on any type of open source projects
